@@ -14,7 +14,7 @@ _**NuCore crafts our resources with a focus on aiding beginner developers or ind
 
 **Screenshots:**
 
-![image](https://github.com/Nu-Core/vespucci-clean/assets/170696402/14c3ac5b-2bc6-419d-a6cc-12c794b9c4c2)
+
 ![image](https://github.com/Nu-Core/vespucci-clean/assets/170696402/274662e4-a7b2-470b-aaa4-fe2e86e6e942)
 ![image](https://github.com/Nu-Core/vespucci-clean/assets/170696402/4027cf1a-be53-4962-a99b-cd4d3e637d18)
 ![image](https://github.com/Nu-Core/vespucci-clean/assets/170696402/43281f71-98b5-45f1-8c1c-1d30a21b0e84)
